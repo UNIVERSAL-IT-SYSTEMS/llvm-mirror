@@ -1,0 +1,3 @@
+[submodule "lib/Target/MCS51"]
+	path = lib/Target/MCS51
+	url = git://github.com/dreamkxd/mcs51-target.git
